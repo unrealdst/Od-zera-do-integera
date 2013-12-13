@@ -86,8 +86,8 @@
   <tile id="66">
    <properties>
     <property name="map" value="room.tmx"/>
-    <property name="x" value="7"/>
-    <property name="y" value="0"/>
+    <property name="x" value="11"/>
+    <property name="y" value="1"/>
    </properties>
   </tile>
   <tile id="67">
@@ -97,13 +97,18 @@
   </tile>
   <tile id="94">
    <properties>
+    <property name="MonsterATC" value="5"/>
+    <property name="MonsterDEF" value="3"/>
+    <property name="MonsterEXP" value="100"/>
+    <property name="MonsterHP" value="100"/>
+    <property name="MonsterName" value="Templete"/>
     <property name="fight" value=""/>
    </properties>
   </tile>
  </tileset>
  <layer name="Tile Layer 1" width="100" height="100">
   <data encoding="base64" compression="zlib">
-   eJzt1VsKwjAQBdDpjwquxccSYnUf7n8XprSgFKVEkUQ8H4fC/HS4wyXbiNgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwEzKuulbexdGXQM7MEqhH63Rj3akKO+H+31Xab7u8doqW082hbNBivf6saR2LrXssn12yI6Fs8d8S/75z3kvOWV9ds4us1m/MBuk8H58w7OMPpm5R517pNCPd/NuSe08ahsyuDawB/d71N4BAOAX3ADG9rHm
+   eJzt101Sg0AUhVGcqFUZuwx/loBJ9uH+d2EPSJVltUQCHW7CGZzJG5A2X57Aruu6HQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAjDwFnQI8xLwvS4/56bL3Rkj2mNtJDj3R6ZNEjS+seY1300COdHln0qJ9hLXrUz/BYPA2eh3nrWUKP2pkSerwWb8V78THMW88SetTOlNDjs9gXh+I4zE+zfaNZQo/amRJ6JNvi/WPpa/bDdfsJ31nLfdl6j5/X1WP9Hn1nP5J6pO1HrUny8+6978dfPVKfd7e6H6nPu79nc97D5+xHgrVb1M4x5z38lvbjWvePKb+Hr8o5Tnt8yfv6nP3Y+v3j3J7+95lwbJbcI+3+ce7zL+3Rd1n7MedvW2s/EujR/jNa/g+6tIUeWS1Se1xDYgs99EihR5bUHms4BJyh1Xd9Sz2+ATry2v4=
   </data>
  </layer>
 </map>

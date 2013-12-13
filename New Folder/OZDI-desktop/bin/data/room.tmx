@@ -3,7 +3,24 @@
  <tileset firstgid="1" name="Game Boy - Pokemon GoldSilver - Tiles" tilewidth="16" tileheight="16" spacing="1" margin="1">
   <tileoffset x="1" y="1"/>
   <image source="Game Boy - Pokemon GoldSilver - Tiles.png" width="343" height="410"/>
+  <tile id="43">
+   <properties>
+    <property name="map" value="map3.tmx"/>
+    <property name="x" value="18"/>
+    <property name="y" value="10"/>
+   </properties>
+  </tile>
+  <tile id="291">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
   <tile id="306">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="311">
    <properties>
     <property name="blocked" value=""/>
    </properties>
@@ -18,10 +35,25 @@
     <property name="blocked" value=""/>
    </properties>
   </tile>
+  <tile id="352">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="353">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="354">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
  </tileset>
  <layer name="Tile Layer 1" width="15" height="10">
   <data encoding="base64" compression="zlib">
-   eJyzYmRgsCIT+1GAjYGYh0SsAtWHTy8fEPNjEbcgQq8SECvjkCOk1wyIzcnUGwvF5OjFhwdSLwCWyBIM
+   eJxLZGRgSCIDJwOxMRDzkIGNydSrQoRePiDmxyJuQYReJSBWJtPNZkBsTqbeWCimZlhRSy+xWIcBlQ8A8fMSxw==
   </data>
  </layer>
 </map>
